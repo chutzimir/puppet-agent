@@ -134,3 +134,4 @@ repo_name: 'puppet6'
 nonfinal_repo_name: 'puppet6-nightly'
 build_tar: FALSE
 build_gem: TRUE
+signing_server: 'composer-deb-prod-1.delivery.puppetlabs.net'
